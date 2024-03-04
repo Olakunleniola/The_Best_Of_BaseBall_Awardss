@@ -13,7 +13,7 @@ The Best of Baseball Awards, using SQL queries to determine the winners of vario
 ## Download and Usage
 1.  Clone the repository:
     ```bash
-        git clone <repository-url>
+        git clone https://github.com/Olakunleniola/The_Best_Of_BaseBall_Awardss.git
     ```
 2. Import Database:
     + Locate the baseball_database.sql file.
